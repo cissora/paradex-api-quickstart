@@ -2,7 +2,7 @@
 
 This repo is a minimal, working example to connect to Paradex **Prod** WebSocket price feeds using the official Paradex Python SDK (`paradex-py`), authenticated via a **Trading Key (Subkey)**.
 
-Goal: get from “zero → streaming WS "perp-ticker"data” in ~30–45 minutes, without digging through a large SDK repo structure.
+Goal: get from zero → streaming WS (perp-ticker) data in ~30–45 minutes, without digging through a large SDK repo structure.
 
 Official SDK (reference / full functionality):
 - https://github.com/tradeparadex/paradex-py

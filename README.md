@@ -11,7 +11,8 @@ Related official docs:
 - https://docs.paradex.trade/docs/trading/api-authentication#subkeys
 - https://docs.paradex.trade/ws/general-information
 
-DM me on X: https://x.com/cissora/status/2024335267365097743
+DM me on X: 
+- https://x.com/cissora/status/2024335267365097743
 
 ---
 

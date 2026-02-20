@@ -114,6 +114,7 @@ python -c "import importlib.metadata as m; print('paradex-py', m.version('parade
 
 Create `.env` in the repo root (same directory as `scan_ws.py`):
 
+```env
 L2_ADDRESS=0x...
 L2_SUBKEY=0x...
 
@@ -129,8 +130,6 @@ python scan_ws.py
 
 ---
 
---------------------------
- 
 ## Quickstart (Docker CLI)
 
 Use this if you prefer the terminal instead of VS Code Dev Containers.
@@ -166,5 +165,4 @@ python -c "import importlib.metadata as m; print('paradex-py', m.version('parade
 python scan_ws.py
 ```
 
-```
 ```

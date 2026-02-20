@@ -164,5 +164,3 @@ python -c "import importlib.metadata as m; print('paradex-py', m.version('parade
 ```bash
 python scan_ws.py
 ```
-
-```

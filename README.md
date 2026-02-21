@@ -33,7 +33,7 @@ This is intended to be foundational plumbing you can build on:
 
 ---
 
-## Confirmed Working Python version
+## Confirmed Working Python Version
 
 Python 3.11 is the baseline that is known to work here.  
 Newer Python versions might work, but are not guaranteed (dependency + async/websocket stacks can break on bleeding edge).
